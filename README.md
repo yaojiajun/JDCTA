@@ -1,1 +1,1 @@
-# JDCTA:Joint Dependency and Conflicting Task Allocation in Collaboration-aware Spatial Crowdsourcing
+# JDCTA: Joint Dependency and Conflicting Task Allocation in Collaboration-aware Spatial Crowdsourcing
